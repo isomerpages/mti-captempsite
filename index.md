@@ -7,6 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/tempsite.jpg
+      background: /images/hero_20220215.jpg
+  - infobar:
+      description: The site will be ready soon. Please come back again.
 ---
-
