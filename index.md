@@ -10,5 +10,6 @@ sections:
       background: /images/hero_20220215.jpg
       title: Committee Against Profiteering
   - infobar:
-      description: The site will be ready soon. <br> Please come back again.
+      description: PLEASE COME BACK AGAIN.
+      subtitle: The site will be ready soon.
 ---
