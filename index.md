@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/hero_20220215.jpg
+      title: Committee Against Profiteering
   - infobar:
-      description: The site will be ready soon. Please come back again.
+      description: The site will be ready soon. <br> Please come back again.
 ---
