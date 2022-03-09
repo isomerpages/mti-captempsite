@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Committee Against Profiteering (CAP)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -9,3 +9,4 @@ sections:
   - hero:
       background: /images/tempsite.jpg
 ---
+
