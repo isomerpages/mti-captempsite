@@ -10,5 +10,6 @@ sections:
       background: /images/Masthead (Final).jpg
       title: Committee Against Profiteering
   - infobar:
-      description: The site will be ready from 1 April 2022. Please come back again.
+      description: The site will be launched on 1 April 2022. We look forward to
+        serving you soon.
 ---
