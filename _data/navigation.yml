@@ -1,2 +1,14 @@
 logo: /images/CAPLogo.png
-links: []
+links:
+  - title: What is CAP?
+    url: /aboutcap
+  - title: For Consumers
+    url: /forconsumers
+  - title: For Business Owners
+    url: /forbusinessowners
+  - title: Resources
+    url: /permalink
+  - title: Scam Alert
+    url: /scamalert
+  - title: Feedback Form
+    url: /shareyourfeedback
