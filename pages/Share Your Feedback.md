@@ -3,8 +3,6 @@ title: Share Your Feedback
 permalink: /shareyourfeedback/
 description: Provide feedback on unjustified price increases of essential
   products and services that use the GST increase as a cover.
- notification: The website will be undergoing scheduled maintenance from 9
-  January 2023, Monday, 11.00pm to 10 January 2023, Tuesday, 3.00am.
 ---
 The CAP will investigate all allegations of unjustified price increases of essential products and services that use the Goods and Services Tax (GST) as a cover. 
 
